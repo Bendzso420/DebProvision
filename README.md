@@ -31,5 +31,10 @@ macOS:
 Scarlet is installed with this tool which allows you to add jailbroken repos and install jailbroken apps all without a jailbreak !
 It also includes a beautiful design and lightning fast app sideloading
 
-![FQjxnTUXwAgogII](https://user-images.githubusercontent.com/63203414/167322439-13501308-1271-4bd7-9c9f-5c164ab357f9.jpeg)
-![FRPE9_NWQAE6n0W](https://user-images.githubusercontent.com/63203414/167322449-fad7213d-65ff-47ab-997b-34accf508187.jpeg)
+![FQjxnTUXwAgogII][def]
+**![FRPE9_NWQAE6n0W][def2]
+****
+**
+[def]: https://user-images.githubusercontent.com/63203414/167322439-13501308-1271-4bd7-9c9f-5c164ab357f9.jpeg
+[def2]: https://user-images.githubusercontent.com/63203414/167322449-fad7213d-65ff-47ab-997b-34accf508187.jpeg
+ 
