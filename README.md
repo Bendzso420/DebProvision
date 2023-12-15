@@ -27,7 +27,7 @@ Windows:
 macOS:
 - No requirements
 
-# Scarlet
+
 Scarlet is installed with this tool which allows you to add jailbroken repos and install jailbroken apps all without a jailbreak !
 It also includes a beautiful design and lightning fast app sideloading
 
